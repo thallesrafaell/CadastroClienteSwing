@@ -18,6 +18,7 @@ Este é um projeto simples de cadastro de clientes usando Java Swing.
 1. Clone o repositório.
 2. Abra o projeto em sua IDE Java.
 3. Execute a classe `TelaPrincipal` localizada no pacote `cadastroclienteswing`.
+4. Foi incluído arquivo jar, com o programa compilado para que possa executar facilmente  para uma análise superficial caso necessário.
 
 ## Contribuindo
 
